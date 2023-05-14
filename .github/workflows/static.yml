@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://andrei2738.github.io/portfolio/
+      url: https://Andrei2738.github.io/portfolio/.github/workflows
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
